@@ -2,6 +2,8 @@
 
 Changes the spinner words Claude Code shows while it's thinking. Pick a theme, make it fun.
 
+![claude-verbs demo](assets/claude-verbs.gif)
+
 Works with both **Claude Code CLI** and the **VSCode Claude extension**.
 
 ## Usage

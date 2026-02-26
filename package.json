@@ -16,7 +16,15 @@
     "claude-code",
     "spinner",
     "verbs",
-    "cli"
+    "ai",
+    "spinner-verbs",
+    "anthropic",
+    "themes",
+    "star-wars",
+    "matrix",
+    "Dune",
+    "lord-of-the-rings",
+    "breaking-bad"
   ],
   "author": "Samet Acar <sametacarsamet@gmail.com>",
   "license": "MIT",
