@@ -5,6 +5,7 @@ const require = createRequire(import.meta.url);
 export const verbs = {
   lotr: require('./lotr.json'),
   sw: require('./sw.json'),
+  dune: require('./dune.json'),
 };
 
 export function list() {

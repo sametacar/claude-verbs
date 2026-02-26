@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 import { list, get } from '../src/verbs/index.js';
 import * as claudeCode from '../src/adapters/claude-code.js';
+import { showMenu } from '../src/menu.js';
 
 const [,, command, ...args] = process.argv;
 
@@ -61,6 +62,11 @@ switch (command) {
       }
       console.log();
     }
+    break;
+  }
+
+  case undefined: {
+    showMenu();
     break;
   }
 
