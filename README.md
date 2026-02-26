@@ -8,13 +8,21 @@ Works with both **Claude Code CLI** and the **VSCode Claude extension**.
 
 ## Usage
 
+🚀 Just run this command:
+
 ```bash
 npx claude-verbs
 ```
 
-Run without arguments to open an interactive menu — use arrow keys to pick a theme and press Enter.
+A menu will open — use arrow keys to pick a theme and press Enter.
 
-Or use CLI commands directly:
+![claude-verbs menu](assets/claude-verbs-menu-img.jpg)
+
+✅ That's it.
+
+---
+
+Optionally, use CLI commands directly:
 
 ```bash
 npx claude-verbs list              # List available themes
