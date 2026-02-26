@@ -1,0 +1,29 @@
+{
+  "name": "claude-verbs",
+  "version": "0.1.0",
+  "description": "Change Claude Code spinner verbs with themed word sets",
+  "type": "module",
+  "main": "src/index.js",
+  "bin": {
+    "claude-verbs": "bin/cli.js"
+  },
+  "files": [
+    "bin",
+    "src"
+  ],
+  "keywords": [
+    "claude",
+    "claude-code",
+    "spinner",
+    "verbs",
+    "cli"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sametacar/claude-verbs.git"
+  }
+}
