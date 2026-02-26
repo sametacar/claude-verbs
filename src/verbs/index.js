@@ -6,6 +6,8 @@ export const verbs = {
   lotr: require('./lotr.json'),
   sw: require('./sw.json'),
   dune: require('./dune.json'),
+  matrix: require('./matrix.json'),
+  bb: require('./bb.json'),
 };
 
 export function list() {

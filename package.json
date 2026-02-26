@@ -1,6 +1,6 @@
 {
   "name": "claude-verbs",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Change Claude Code spinner verbs with themed word sets",
   "type": "module",
   "main": "src/index.js",
@@ -18,12 +18,17 @@
     "verbs",
     "cli"
   ],
+  "author": "Samet Acar <sametacarsamet@gmail.com>",
   "license": "MIT",
   "engines": {
     "node": ">=18"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sametacar/claude-verbs.git"
+    "url": "git+https://github.com/sametacar/claude-verbs.git"
+  },
+  "homepage": "https://github.com/sametacar/claude-verbs#readme",
+  "bugs": {
+    "url": "https://github.com/sametacar/claude-verbs/issues"
   }
 }
