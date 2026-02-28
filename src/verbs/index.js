@@ -8,6 +8,7 @@ export const verbs = {
   dune: require('./dune.json'),
   matrix: require('./matrix.json'),
   bb: require('./bb.json'),
+  got: require('./got.json'),
 };
 
 export function list() {

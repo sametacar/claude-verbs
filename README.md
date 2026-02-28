@@ -40,6 +40,7 @@ npx claude-verbs current           # Show currently applied verbs
 | `dune` | Dune | "🏜️ Tokens must flow" |
 | `matrix` | Matrix | "🧠 Downloading kung fu" |
 | `bb` | Breaking Bad & Better Call Saul | "🧪 99.1% pure coverage" |
+| `got` | Game of Thrones | "🗡️ What do we say to PO? Not today." |
 
 ## How it works
 

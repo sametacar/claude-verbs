@@ -1,6 +1,6 @@
 {
   "name": "claude-verbs",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Change Claude Code spinner verbs with themed word sets",
   "type": "module",
   "main": "src/index.js",
