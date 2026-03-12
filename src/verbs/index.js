@@ -9,6 +9,7 @@ export const verbs = {
   matrix: require('./matrix.json'),
   bb: require('./bb.json'),
   got: require('./got.json'),
+  br: require('./br.json'),
 };
 
 export function list() {
