@@ -1,10 +1,10 @@
 # claude-verbs
 
-Changes the spinner words Claude Code shows while it's thinking. Pick a theme, make it fun.
+Replace Claude Code's thinking verbs with Star Wars, Game of Thrones, Lord of the Rings, and more.
 
 ![claude-verbs demo](assets/claude-verbs.gif)
 
-Works with both **Claude Code CLI** and the **VSCode Claude extension**.
+Works with both **Claude Code CLI** and the **VSCode Claude extension**. Supports macOS, Windows, and Linux.
 
 ## Usage
 
@@ -41,7 +41,7 @@ npx claude-verbs current           # Show currently applied verbs
 | `matrix` | Matrix | "📞 Looking for an exit" |
 | `bb` | Breaking Bad | "🧪 99.1% pure coverage" |
 | `got` | Game of Thrones | "🗡️ What do we say to PO? Not today." |
-| `br` | Blade Runner | "🌧️ All those prompts lost in time... like my git stash" |
+| `br` | Blade Runner | "🌧️ All those prompts lost in time... like tears in rain" |
 
 ## How it works
 
