@@ -1,6 +1,6 @@
 # claude-verbs
 
-Replace Claude Code's thinking verbs with Star Wars, Game of Thrones, Lord of the Rings, and more.
+Replace Claude Code's thinking verbs with Star Wars, Game of Thrones, Lord of the Rings, Project Hail Mary, and more.
 
 ![claude-verbs demo](assets/claude-verbs.gif)
 
@@ -42,6 +42,7 @@ npx claude-verbs current           # Show currently applied verbs
 | `bb` | Breaking Bad | "🧪 99.1% pure coverage" |
 | `got` | Game of Thrones | "🗡️ What do we say to PO? Not today." |
 | `br` | Blade Runner | "🌧️ All those prompts lost in time... like tears in rain" |
+| `phm` | Project Hail Mary | "🪨 Question?" |
 
 ## How it works
 
