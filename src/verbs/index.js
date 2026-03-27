@@ -10,6 +10,7 @@ export const verbs = {
   bb: require('./bb.json'),
   got: require('./got.json'),
   br: require('./br.json'),
+  phm: require('./phm.json'),
 };
 
 export function list() {
