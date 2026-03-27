@@ -42,7 +42,7 @@ npx claude-verbs current           # Show currently applied verbs
 | `bb` | Breaking Bad | "🧪 99.1% pure coverage" |
 | `got` | Game of Thrones | "🗡️ What do we say to PO? Not today." |
 | `br` | Blade Runner | "🌧️ All those prompts lost in time... like tears in rain" |
-| `phm` | Project Hail Mary | "🪨 Question?" |
+| `phm` | Project Hail Mary | "❓ Question?" |
 
 ## How it works
 
