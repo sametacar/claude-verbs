@@ -62,6 +62,12 @@ npx claude-verbs reset
 npm uninstall -g claude-verbs
 ```
 
+## Contributors
+
+Thanks to [Markus Erwee](https://github.com/mwerwee) for contributing the Project Hail Mary theme!
+
+Contributions are welcome — feel free to open a PR with your own theme.
+
 ## License
 
 MIT
