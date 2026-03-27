@@ -40,5 +40,11 @@
   "homepage": "https://github.com/sametacar/claude-verbs#readme",
   "bugs": {
     "url": "https://github.com/sametacar/claude-verbs/issues"
-  }
+  },
+  "contributors": [
+    {
+      "name": "mwerwee",
+      "url": "https://github.com/mwerwee"
+    }
+  ]
 }
