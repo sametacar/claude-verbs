@@ -11,6 +11,7 @@ export const verbs = {
   got: require('./got.json'),
   br: require('./br.json'),
   phm: require('./phm.json'),
+  bsg: require('./bsg.json'),
 };
 
 export function list() {
