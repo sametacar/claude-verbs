@@ -69,6 +69,10 @@ Thanks to [Markus Erwee](https://github.com/mwerwee) for contributing the Projec
 
 Contributions are welcome — feel free to open a PR with your own theme.
 
+## See Also
+
+[claudefx](https://www.npmjs.com/package/claudefx) — add retro sound effects (Age of Empires, Warcraft, Starcraft, and more) to Claude Code's hooks. If `claude-verbs` changes what Claude *says* while thinking, `claudefx` changes what it *sounds like*. Highly recommended, give it a try!
+
 ## License
 
 MIT
