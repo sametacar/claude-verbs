@@ -1,6 +1,6 @@
 {
   "name": "claude-verbs",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "Change Claude Code spinner verbs with themed word sets",
   "type": "module",
   "main": "src/index.js",
@@ -26,7 +26,8 @@
     "lord-of-the-rings",
     "breaking-bad",
     "blade-runner",
-    "project-hail-mary"
+    "project-hail-mary",
+    "battlestar-galactica"
 ],
   "author": "Samet Acar <sametacarsamet@gmail.com>",
   "license": "MIT",
