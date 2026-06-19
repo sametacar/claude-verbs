@@ -1,7 +1,7 @@
 {
   "name": "claude-verbs",
-  "version": "1.4.3",
-  "description": "Change Claude Code spinner verbs with themed word sets",
+  "version": "1.4.4",
+  "description": "Change Claude Code spinner verbs with themed word sets(Star Wars, Matrix, Dune, Lord of the Rings, Breaking Bad, Blade Runner, Project Hail Mary, Battlestar Galactica)",
   "type": "module",
   "main": "src/index.js",
   "bin": {
