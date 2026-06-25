@@ -1,6 +1,6 @@
 # claude-verbs
 
-Replace Claude Code's thinking verbs with Star Wars, Game of Thrones, Lord of the Rings, Battlestar Galactica, Project Hail Mary, and more.
+Replace Claude Code's thinking verbs with Star Wars, Game of Thrones, Breaking Bad, The Matrix, Dune, Lord of the Rings, and more.
 
 ![claude-verbs demo](assets/claude-verbs.gif)
 
