@@ -1,7 +1,7 @@
 {
   "name": "claude-verbs",
-  "version": "1.4.5",
-  "description": "Themed spinner verbs for Claude Code CLI and VS Code extension - Star Wars, Game of Thrones, Breaking Bad, Blade Runner, The Matrix, Dune, Lord of the Rings, Andor, and more. Customize your development workflow with iconic movie and TV show quotes and pop culture references.",
+  "version": "1.5.0",
+  "description": "Themed spinner verbs for Claude Code CLI and VS Code extension - Star Wars, Game of Thrones, Breaking Bad, Blade Runner, The Matrix, Dune, Lord of the Rings, Firefly,  Andor, and more. Customize your development workflow with iconic movie and TV show quotes and pop culture references.",
   "type": "module",
   "main": "src/index.js",
   "bin": {
@@ -27,7 +27,8 @@
     "dune",
     "battlestar-galactica",
     "lord-of-the-rings",
-    "project-hail-mary"
+    "project-hail-mary",
+    "firefly"
 ],
   "author": "Samet Acar <sametacarsamet@gmail.com>",
   "license": "MIT",

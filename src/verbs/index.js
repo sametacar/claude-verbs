@@ -12,6 +12,7 @@ export const verbs = {
   br: require('./br.json'),
   phm: require('./phm.json'),
   bsg: require('./bsg.json'),
+  firefly: require('./firefly.json'),
 };
 
 export function list() {

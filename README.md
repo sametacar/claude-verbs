@@ -44,6 +44,7 @@ npx claude-verbs current           # Show currently applied verbs
 | `br` | Blade Runner | "🌧️ All those prompts lost in time... like tears in rain" |
 | `phm` | Project Hail Mary | "❓ Question?" |
 | `bsg` | Battlestar Galactica | "💃🏼 Hallucinating the Six" |
+| `firefly` | Firefly | "✨ Shiny" |
 
 ## How it works
 
